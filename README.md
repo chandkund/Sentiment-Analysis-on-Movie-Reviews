@@ -17,7 +17,7 @@ Annotated the plot with sentiment labels to provide insights into the clustering
 ## Datasets
 The dataset includes the following columns:
 
-- Poster_Link: URL of the movie's poster.
+- Poster_Link: URL of the movie's poster.   
 - Series_Title: Title of the movie.
 - Released_Year: Year the movie was released.
 - Certificate: Movie rating certificate (e.g., PG, R).
