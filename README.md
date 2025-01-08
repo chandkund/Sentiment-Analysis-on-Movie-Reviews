@@ -12,7 +12,7 @@ Handled missing values and removed duplicates to maintain data integrity.
 Implemented K-Means clustering to group movies based on their IMDB_Rating and Gross.
 Determined the optimal number of clusters using the Elbow Method and applied sentiment labels (Negative, Neutral, Positive) to each cluster based on cluster centers.
  4. Visualization and Interpretation
-Annotated the plot with sentiment labels to provide insights into the clustering results
+Annotated the plot with sentiment labels to provide insights into the clustering results. 
  
 ## Datasets
 The dataset includes the following columns:
