@@ -1,4 +1,4 @@
-# Sentiment-Analysis-on-Movie-Reviews
+# Sentiment-Analysis-on-Movie-Reviews 
 Project on Sentiment Analysis of Movie Reviews using K-means clustering. This project clusters movie reviews based on their sentiment scores to understand audience reactions. Includes data preprocessing, feature selection, model development, and visualization.
 ## Project Workflow
  1. Exploratory Data Analysis (EDA)
@@ -17,7 +17,7 @@ Annotated the plot with sentiment labels to provide insights into the clustering
 ## Datasets
 The dataset includes the following columns:
 
-- Poster_Link: URL of the movie's poster.   
+- Poster_Link: URL of the movie's posters.   
 - Series_Title: Title of the movie.
 - Released_Year: Year the movie was released.
 - Certificate: Movie rating certificate (e.g., PG, R).
