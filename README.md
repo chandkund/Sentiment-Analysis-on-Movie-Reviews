@@ -1,4 +1,4 @@
-# Sentiment-Analysis-on-Movie-Reviews 
+ # Sentiment-Analysis-on-Movie-Reviews 
 Project on Sentiment Analysis of Movie Reviews using K-means clustering. This project clusters movie reviews based on their sentiment scores to understand audience reactions. Includes data preprocessing, feature selection, model development, and visualization.
 ## Project Workflow
  1. Exploratory Data Analysis (EDA)
@@ -10,7 +10,7 @@ Standardized the features using StandardScaler to ensure proper clustering.
 Handled missing values and removed duplicates to maintain data integrity. 
  3. K-Means Clustering
 Implemented K-Means clustering to group movies based on their IMDB_Rating and Gross.
-Determined the optimal number of clusters using the Elbow Method and applied sentiment labels (Negative, Neutral, Positive) to each cluster based on cluster centers.
+Determined the optimal number of clusters using the Elbow Method and applied sentiment labels (Negative, Neutral, Positive) to each cluster based on cluster centers. 
  4. Visualization and Interpretation
 Annotated the plot with sentiment labels to provide insights into the clustering results. 
  
