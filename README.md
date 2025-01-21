@@ -9,7 +9,7 @@ Handled missing values and duplicates to ensure clean data for analysis.
 Standardized the features using StandardScaler to ensure proper clustering.
 Handled missing values and removed duplicates to maintain data integrity. 
  3. K-Means Clustering
-Implemented K-Means clustering to group movies based on their IMDB_Rating and Gross.
+Implemented K-Means clustering to group movies based on their IMDB_Rating and Gross.  
 Determined the optimal number of clusters using the Elbow Method and applied sentiment labels (Negative, Neutral, Positive) to each cluster based on cluster centers.                
  4. Visualization and Interpretation     
 Annotated the plot with sentiment labels to provide insights into the clustering results. 
