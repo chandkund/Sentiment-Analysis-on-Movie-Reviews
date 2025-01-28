@@ -6,7 +6,7 @@ Analyzed the distribution of IMDB_Rating and Gross.
 Visualized the data to identify patterns, anomalies, and correlations.
 Handled missing values and duplicates to ensure clean data for analysis.
  2. Data Preprocessing
-Standardized the features using StandardScaler to ensure proper clustering.
+Standardized the features using StandardScaler to ensure proper clustering.  
 Handled missing values and removed duplicates to maintain data integrity. 
  3. K-Means Clustering
 Implemented K-Means clustering to group movies based on their IMDB_Rating and Gross.  
