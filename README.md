@@ -3,7 +3,7 @@ Project on Sentiment Analysis of Movie Reviews using K-means clustering. This pr
 ## Project Workflow
  1. Exploratory Data Analysis (EDA) 
 Analyzed the distribution of IMDB_Rating and Gross.
-Visualized the data to identify patterns, anomalies, and correlations.
+Visualized the data to identify patterns, anomalies, and correlations. 
 Handled missing values and duplicates to ensure clean data for analysis. 
  2. Data Preprocessing  
 Standardized the features using StandardScaler to ensure proper clustering.       
