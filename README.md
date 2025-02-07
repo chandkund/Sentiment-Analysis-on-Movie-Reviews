@@ -1,7 +1,7 @@
  # Sentiment-Analysis-on-Movie-Reviews 
 Project on Sentiment Analysis of Movie Reviews using K-means clustering. This project clusters movie reviews based on their sentiment scores to understand audience reactions. Includes data preprocessing, feature selection, model development, and visualization.
 ## Project Workflow
- 1. Exploratory Data Analysis (EDA)
+ 1. Exploratory Data Analysis (EDA) 
 Analyzed the distribution of IMDB_Rating and Gross.
 Visualized the data to identify patterns, anomalies, and correlations.
 Handled missing values and duplicates to ensure clean data for analysis.
