@@ -5,7 +5,7 @@ Project on Sentiment Analysis of Movie Reviews using K-means clustering. This pr
 Analyzed the distribution of IMDB_Rating and Gross.
 Visualized the data to identify patterns, anomalies, and correlations. 
 Handled missing values and duplicates to ensure clean data for analysis. 
- 2. Data Preprocessing    
+ 2. Data Preprocessing     
 Standardized the features using StandardScaler to ensure proper clustering.        
 Handled missing values and removed duplicates to maintain data integrity.            
  3. K-Means Clustering  
